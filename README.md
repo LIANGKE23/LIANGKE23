@@ -8,9 +8,9 @@
 
 👯 I’m looking to collaborate on Knowledge Graph Representation Learning, Multi-Modal Learning and Healthcare AI 
 
-<!--   <center>  -->
-<!--       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LIANGKE23" /> -->
-<!--   </center> -->
+  <center> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LIANGKE23" />
+  </center>
 <!--
 **LIANGKE23/LIANGKE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
