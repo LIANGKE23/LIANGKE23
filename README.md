@@ -6,7 +6,7 @@
 
 🌱 I am working hard and pursuing my doctor degree in College of Computer, National University of Defense Technology (NUDT). 
 
-👯 I’m looking to collaborate on Knowledge Graph Representation Learning, Multi-Modal Learning and Healthcare AI 
+👯 I’m looking to collaborate on Knowledge Graph Reasoning, Multi-Modal Learning and Healthcare AI 
 
   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LIANGKE23" />
