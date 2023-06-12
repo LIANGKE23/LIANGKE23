@@ -6,11 +6,11 @@
 
 🌱 I am working hard and pursuing my doctor degree in College of Computer, National University of Defense Technology (NUDT). 
 
-👯 I’m looking to collaborate on Knowledge Graph Reasoning, Multi-Modal Learning and Healthcare AI 
+👯 I’m looking to collaborate on Knowledge Graph, Graph Learning, Multi-Modal Learning and Healthcare AI 
 
-  <center> 
+<!--   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LIANGKE23" />
-  </center>
+  </center> -->
 <!--
 **LIANGKE23/LIANGKE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
