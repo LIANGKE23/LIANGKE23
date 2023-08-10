@@ -4,9 +4,11 @@
 
 🔭 I graduated from Beihang University (BUAA) and Pennsylvania State University (PSU). 
 
-🌱 I am working hard and pursuing my doctor degree in College of Computer, National University of Defense Technology (NUDT). 
+🌱 I am working hard and pursuing my doctorate degree in the College of Computer, National University of Defense Technology (NUDT). 
 
-👯 I’m looking to collaborate on Knowledge Graph, Graph Learning, Multi-Modal Learning and Healthcare AI 
+👯 I’m looking to collaborate on Knowledge Graphs, Graph Learning, Healthcare AI, and Urban Computing. 
+
+📫 Reach me at liangke200694@126.com
 
 <!--   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LIANGKE23" />
