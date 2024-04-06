@@ -6,7 +6,7 @@
 
 🌱 I am working hard and pursuing my doctorate degree in the College of Computer, National University of Defense Technology (NUDT). 
 
-👯 I’m looking to collaborate on Knowledge Graphs, Graph Learning, Healthcare AI, and Urban Computing. 
+👯 I’m looking to collaborate on Knowledge Graphs, Graph Learning, Multi-view Learning and Healthcare AI. 
 
 📫 Reach me at liangke200694@126.com
 
